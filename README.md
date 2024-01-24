@@ -1,4 +1,4 @@
-# Flashcard Challenge App
+# Study.Async
 
 ## Descrição do Projeto
 
